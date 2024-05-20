@@ -1,4 +1,5 @@
-  
+## About 
+Create users service with JWT auth.  
    # Teknologi Yang digunakan :
    * Golang
    * Mysql
